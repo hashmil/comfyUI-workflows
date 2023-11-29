@@ -3,10 +3,19 @@
 These are some ComfyUI workflows that I'm playing and experimenting with. Simply download the PNG files and drag them into ComfyUI. To install any missing nodes, use the ComfyUI Manager available [here](https://github.com/ltdrdata/ComfyUI-Manager).
 
 ## Table of Contents
-1. [SDXL IP-adapter LCM-LoRa Workflow](#sdxl-ip-adapter-lcm-lora-workflow)
-2. [SDXL Turbo Live Painting Workflow](#sdxl-turbo-live-painting-workflow)
+1. [SDXL Turbo Basic Workflow](#sdxl-turbo-basic-workflow)
+2. [SDXL IP-adapter LCM-LoRa Workflow](#sdxl-ip-adapter-lcm-lora-workflow)
+3. [SDXL Turbo Live Painting Workflow](#sdxl-turbo-live-painting-workflow)
 
 ## Workflows
+
+### SDXL Turbo Basic Workflow
+
+![SDXL Turbo Basic Workflow](https://github.com/hashmil/comfyUI-workflows/blob/main/SDXL-Turbo-basic_workflow.png)
+
+[Download SDXL Turbo Basic Workflow](https://raw.githubusercontent.com/hashmil/comfyUI-workflows/main/SDXL-Turbo-basic_workflow.png)
+
+---
 
 ### SDXL IP-adapter LCM-LoRa Workflow
 
@@ -18,6 +27,6 @@ These are some ComfyUI workflows that I'm playing and experimenting with. Simply
 
 ### SDXL Turbo Live Painting Workflow
 
-![SDXL Turbo Livepainting Workflow](https://github.com/hashmil/comfyUI-workflows/blob/main/SDXL-turbo-livepainting_workflow.png)
+![SDXL Turbo Live Painting Workflow](https://github.com/hashmil/comfyUI-workflows/blob/main/SDXL-turbo-livepainting_workflow.png)
 
-[Download SDXL Turbo Livepainting Workflow](https://raw.githubusercontent.com/hashmil/comfyUI-workflows/main/SDXL-turbo-livepainting_workflow.png)
+[Download SDXL Turbo Live Painting Workflow](https://raw.githubusercontent.com/hashmil/comfyUI-workflows/main/SDXL-turbo-livepainting_workflow.png)
