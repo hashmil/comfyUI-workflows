@@ -3,11 +3,25 @@
 These are some ComfyUI workflows that I'm playing and experimenting with. Simply download the PNG files and drag them into ComfyUI. To install any missing nodes, use the ComfyUI Manager available [here](https://github.com/ltdrdata/ComfyUI-Manager).
 
 ## Table of Contents
-1. [SDXL Turbo Basic Workflow](#sdxl-turbo-basic-workflow)
-2. [SDXL Turbo Live Painting Workflow](#sdxl-turbo-live-painting-workflow)
-3. [SDXL IP-adapter LCM-LoRa Workflow](#sdxl-ip-adapter-lcm-lora-workflow)
+- SD Workflows
+    1. [SD Inpainting Controlnet LCM Workflow](#sd-inpainting-controlnet-lcm-workflow)
+- SDXL Workflows
+    1. [SDXL Turbo Basic Workflow](#sdxl-turbo-basic-workflow)
+    2. [SDXL Turbo Live Painting Workflow](#sdxl-turbo-live-painting-workflow)
+    3. [SDXL IP-adapter LCM-LoRa Workflow](#sdxl-ip-adapter-lcm-lora-workflow)
+    4. [SDXL Simple LCM Workflow](#sdxl-simple-lcm-workflow)
 
-## Workflows
+## SD Workflows
+
+### SD Inpainting Controlnet LCM Workflow
+
+![SD Inpainting Controlnet LCM Workflow](https://github.com/hashmil/comfyUI-workflows/blob/main/SD-Inpainting-controlnet-LCM_workflow.png)
+
+[Download SD Inpainting Controlnet LCM Workflow](https://raw.githubusercontent.com/hashmil/comfyUI-workflows/main/SD-Inpainting-controlnet-LCM_workflow.png)
+
+---
+
+## SDXL Workflows
 
 ### SDXL Turbo Basic Workflow
 
@@ -16,7 +30,6 @@ These are some ComfyUI workflows that I'm playing and experimenting with. Simply
 [Download SDXL Turbo Basic Workflow](https://raw.githubusercontent.com/hashmil/comfyUI-workflows/main/SDXL-Turbo-basic_workflow.png)
 
 ---
-
 
 ### SDXL Turbo Live Painting Workflow
 
@@ -31,5 +44,13 @@ These are some ComfyUI workflows that I'm playing and experimenting with. Simply
 ![SDXL IP-adapter LCM-LoRa Workflow](https://github.com/hashmil/comfyUI-workflows/blob/main/SDXL_IP-adapter_LCM-LoRa_workflow.png)
 
 [Download SDXL IP-adapter LCM-LoRa Workflow](https://raw.githubusercontent.com/hashmil/comfyUI-workflows/main/SDXL_IP-adapter_LCM-LoRa_workflow.png)
+
+---
+
+### SDXL Simple LCM Workflow
+
+![SDXL Simple LCM Workflow](https://github.com/hashmil/comfyUI-workflows/blob/main/SDXL-simple-LCM_workflow.png)
+
+[Download SDXL Simple LCM Workflow](https://raw.githubusercontent.com/hashmil/comfyUI-workflows/main/SDXL-simple-LCM_workflow.png)
 
 ---
