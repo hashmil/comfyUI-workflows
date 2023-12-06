@@ -6,6 +6,7 @@ These are some ComfyUI workflows that I'm playing and experimenting with. Simply
 - SD Workflows
     1. [SD Inpainting Controlnet LCM Workflow](#sd-inpainting-controlnet-lcm-workflow)
     2. [SD Controlnet Workflow](#sd-controlnet-workflow)
+    3. [SD Ultimate SD Upscale Workflow](#sd-ultimate-sd-upscale-workflow)
 - SDXL Workflows
     1. [SDXL Turbo Basic Workflow](#sdxl-turbo-basic-workflow)
     2. [SDXL Turbo Live Painting Workflow](#sdxl-turbo-live-painting-workflow)
@@ -27,6 +28,14 @@ These are some ComfyUI workflows that I'm playing and experimenting with. Simply
 ![SD Controlnet Workflow](https://github.com/hashmil/comfyUI-workflows/blob/main/SD-controlnet_workflow.png)
 
 [Download SD Controlnet Workflow](https://raw.githubusercontent.com/hashmil/comfyUI-workflows/main/SD-controlnet_workflow.png)
+
+---
+
+### SD Ultimate SD Upscale Workflow
+
+![SD Ultimate SD Upscale Workflow](https://github.com/hashmil/comfyUI-workflows/blob/main/SD-UltimateSDupscale_workflow.png)
+
+[Download SD Ultimate SD Upscale Workflow](https://raw.githubusercontent.com/hashmil/comfyUI-workflows/main/SD-UltimateSDupscale_workflow.png)
 
 ---
 
